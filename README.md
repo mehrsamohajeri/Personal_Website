@@ -2,7 +2,7 @@
 
 **If you want to see a full responsive personal website with tailwind, be sure to look at my code. I hope you enjoy it! ♥️**       
 
-![screencapture-Personal-Website](https://github.com/user-attachments/assets/d83a081d-8578-4965-9636-43305efdc2db)
+![screencapture-Personal-Website](https://github.com/user-attachments/assets/edb6ab3e-6b44-4ee5-b287-e4ecd077b1ca)
 
 - 🔗 [Demo Project](https://mehrsamohajeri.com/)
   
