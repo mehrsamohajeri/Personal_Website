@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: pangolin;
+  src: url(/Font/Pangolin/Pangolin-Regular.ttf);
+}
+
+@font-face {
+  font-family: patrick;
+  src: url(/Font/Patrick_Hand/PatrickHand-Regular.ttf);
+}
+
+@font-face {
+  font-family: handlee;
+  src: url(/Font/Handlee/Handlee-Regular.ttf);
+}
+
+.after-hover {
+  position: relative;
+}
+
+.after-hover::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 0;
+  height: 3px;
+  background-color: #616c5c;
+}
+
+.after-hover:hover::after {
+  width: 100%;
+  left: 0;
+}
