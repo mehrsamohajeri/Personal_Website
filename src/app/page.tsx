@@ -8,7 +8,7 @@ import { Resume } from "@/components/Resume";
 
 export default function Home() {
   return (
-    <main className="scroll-smooth selection:text-white selection:bg-[#acbfa3]">
+    <main data-preview-check="1" className="scroll-smooth selection:text-white selection:bg-[#acbfa3]">
       <Header />
       <Hero />
       <About />
